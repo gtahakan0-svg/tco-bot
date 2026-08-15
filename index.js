@@ -11,5 +11,4 @@ client.on('messageCreate', message => {
   }
 });
 
-// Buraya kendi bot token'ınızı yazacaksınız
-client.login('BURAYA_BOTUNUN_TOKENINI_YAZ');
+client.login('MTUzODAxNTgyNDYwMTwNDkyNA.GpTMqT.7bmb6Jnmgu07z3v1FRMnxVDWwyqMlXhnZzDB7Q');
